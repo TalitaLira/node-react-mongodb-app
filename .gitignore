@@ -6,7 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # not public
-keys.js
+dev.js
 
 # Runtime data
 pids
